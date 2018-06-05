@@ -1,0 +1,7 @@
+to run project:
+spring-boot:run
+
+no need to create table "waste"
+hibernate will create it, given configurtion on application.properties file
+
+we must have to create database, in my case, I have used database name "wastesystem"
